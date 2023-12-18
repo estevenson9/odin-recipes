@@ -1,0 +1,20 @@
+.body {
+  background-color: bisque;
+}
+
+.title {
+  text-align: center;
+  font-style: oblique;
+  border-style: dotted;
+}
+.title-image {
+  display: flex;
+  justify-content: center;
+  border-style: dashed;
+}
+
+.title-image img {
+  height: auto;
+  width: 200px;
+  border-style: groove;
+}
